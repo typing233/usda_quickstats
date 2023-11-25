@@ -1,4 +1,4 @@
-# USDA_STAT
+# usda_quickstats
 A python library that uses API interface to obtain USDA/NASS Quick Stat data
 
 ---
@@ -13,7 +13,7 @@ To use this library, you need Python installed on your machine. The library depe
 pip install requests pandas
 ```
 ```bash
-pip install usda_stat
+pip install usda_quickstats
 ```
 
 ## Usage

@@ -17,12 +17,15 @@ pip install usda_stat
 ```
 
 ## Usage
-
 Import the library into your Python script to start using its functionalities.
 
 ```python
 import usda_quickstats
 ```
+
+## Get API_KEY
+First go to [USDA/NASS Quick Stats](https://quickstats.nass.usda.gov/api/) to get API_KEY
+Then use KEY_init("your api key") to complete the configuration of API_KEY
 
 ## Functions
 
